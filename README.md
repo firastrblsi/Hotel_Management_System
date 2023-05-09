@@ -23,5 +23,4 @@ After the user checks out, user will pay the amount and an entry will be made to
 If any change to plans happens and user opts to extend his stay at the hotel, there is an option available to extend the check out date.
 Database file name is iwp.sql. And it is also uploaded.
 
-Admin connection :
-User ID:firas                                                                                                                                           Password:firastrblsi
+Admin connection :                                                                                                                                             User ID:firas                                                                                                                                           Password:firastrblsi

@@ -24,6 +24,4 @@ If any change to plans happens and user opts to extend his stay at the hotel, th
 Database file name is iwp.sql. And it is also uploaded.
 
 Admin connection :
-User ID:firas
-
-Password:firastrblsi
+User ID:firas                                                                                                                                           Password:firastrblsi
